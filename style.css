@@ -1,14 +1,26 @@
+
+ body p {
+	font-family: Helvetica;  
+	color:#8B9C60;
+   text-align: center;
+   background-color:#CCCCCC;
+	}
+ header a {
+	font-family: Helvetica;  
+	color: #284C70;
+   background-color:#CCCCCC;
+	}
 body {
-	font-family: Helvetica, 
-	background-color:#DB9891;
+	font-family: Helvetica;  
+	background-color:#CCCCCC;
 	color:#000000;
 	}
 	
 h1 {
-	background-color:#DB9891;
+
 	font-size:25px;
-	color:#000000;
-	background-color:#DB9891;
+	color:#284C70;
+	
 	text-align: center;
 	
 	}
@@ -16,17 +28,17 @@ h1 {
 h2 {
 	font-size:28px;
 	color:#000000;
-	background-color:#DB9891;
+
 	}
 h3 {
 	font-size:24px;
 	color:#000000;
-	background-color:#DB9891;
+
 	}
 h4, h5, h6 {
 	font-size:18px;
 	color:#000000;
-	background-color:#DB9891;
+	
 	}
 
 a {
@@ -35,5 +47,5 @@ a {
 	}
 	
 a:hover {
-	color:#DB9891;
+	color:#284C70;
 	}
