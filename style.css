@@ -1,5 +1,5 @@
 body {
-	font-family: arial, 
+	font-family: Helvetica, 
 	background-color:#DB9891;
 	color:#000000;
 	}
@@ -8,7 +8,7 @@ h1 {
 	font-size:25px;
 	color:#000000;
 	background-color:#DB9891;
-		text-align: center;
+	text-align: center;
 	}
 	
 h2 {
