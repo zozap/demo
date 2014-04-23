@@ -1,13 +1,14 @@
 body {
-	font-family: Arial, 
+	font-family: arial, 
 	background-color:#DB9891;
 	color:#000000;
 	}
 	
 h1 {
-	font-size:32px;
+	font-size:25px;
 	color:#000000;
 	background-color:#DB9891;
+		text-align: center;
 	}
 	
 h2 {
@@ -32,5 +33,5 @@ a {
 	}
 	
 a:hover {
-	color:#00ff00;
+	color:#DB9891;
 	}
