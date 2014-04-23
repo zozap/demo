@@ -6,29 +6,29 @@ body {
 	
 h1 {
 	font-size:32px;
-	color:#006600;
-	background-color:#222222;
+	color:#000000;
+	background-color:#DB9891;
 	}
 	
 h2 {
 	font-size:28px;
-	color:#336699;
-	background-color:#222222;
+	color:#000000;
+	background-color:#DB9891;
 	}
 h3 {
 	font-size:24px;
-	color:#22ffff;
-	background-color:#222222;
+	color:#000000;
+	background-color:#DB9891;
 	}
 h4, h5, h6 {
 	font-size:18px;
-	color:#ff88ff;
-	background-color:#222222;
+	color:#000000;
+	background-color:#DB9891;
 	}
 
 a {
 	text-decoration:none;
-	color:#ffffff;
+	color:#000000;
 	}
 	
 a:hover {
